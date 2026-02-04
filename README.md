@@ -14,9 +14,17 @@
 ---
 ## 0x02 > Notable Projects
 
+[my music player](https://github.com/ShuBot/solo_sangeet)
+
+
+[my desk clock](https://github.com/ShuBot/esp_digi_clock)
+
 [![ble_rgb_bulb](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=ble_rgb_bulb&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/ble_rgb_bulb)
+
 [![PCB_Reflow_Hotplate](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=PCB_Reflow_Hotplate&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/PCB_Reflow_Hotplate)
+
 [![shubot_kicad_lib](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=shubot_kicad_lib&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/shubot_kicad_lib)
+
 [![esp_cam_OV7670](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=esp_cam_OV7670&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/esp_cam_OV7670)
 
 ---
